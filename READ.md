@@ -24,7 +24,5 @@
 
 <img width="1757" alt="Screenshot 2024-03-26 at 10 40 01" src="https://github.com/MrSchipRozen/AtividadeMetricasSem7/assets/99350292/8e72d6bf-44d0-46c0-90a7-713e73a3232c">
 
-Conclusão - 
-
 
 
